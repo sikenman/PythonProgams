@@ -6,3 +6,4 @@ I have created some simple Python programs.
 - Multiplication table of 7, 9 and 13
 - Reverse the string
 - Triangle star pattern (using Unicode)
+- Tic-tac-toe Game (Single Player vs Computer)
